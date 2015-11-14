@@ -1,0 +1,21 @@
+[
+  {
+    "modid": "TutorialMod",
+    "name": "Tutorial Mod",
+    "description": "A tutorial mod made in conjunction with Pahimar's "Let's Mod Reboot" series."",
+    "version": "1.0.0",
+    "mcversion": "1.7.10",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "Theagle43"
+    ],
+    "credits": "Made by Theagle43",
+    "logoFile": "",
+    "screenshots": [
+    ],
+    "parent":"",
+    "dependencies": [
+    ]
+  }
+]
